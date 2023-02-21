@@ -18,7 +18,7 @@
 
 # ADDED
 
-图文见blog：[一行命令解决 LeanCloud 流控问题](https://www.aimtao.net/slef-wake-leancloud/)
+图文见blog：[解决 LeanCloud 流控问题](https://www.aimtao.net/slef-wake-leancloud/)
 
 
 # UPDATA
